@@ -1,0 +1,1030 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-19T08:06:40.965280+00:00",
+  "files": [
+    {
+      "path": ".agent-browser/default.engine",
+      "file_type": "engine",
+      "size": 6,
+      "hash": "9390ef32addf32bfdea786bc1e20679592498068bcbfcd357ea10ab64ea35e47",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/default.pid",
+      "file_type": "pid",
+      "size": 4,
+      "hash": "b4106e79a7db2401426aac297d59c1b50f594417b195d4a258fb8a6447ea638f",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/default.stream",
+      "file_type": "stream",
+      "size": 5,
+      "hash": "c284fe132ce10d99eb52825a4d32ef363235c4a9450422e45f2b779f1281c142",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/default.version",
+      "file_type": "version",
+      "size": 6,
+      "hash": "cce470327e9739903d27de576127a0b98957a30a6da623f860f3b2fc83c8c035",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1776553604331.png",
+      "file_type": "png",
+      "size": 68635,
+      "hash": "d023eacbe8cd28bad5510aa3547387a97764a78b83af4a7601957f78189134b6",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1776553636346.png",
+      "file_type": "png",
+      "size": 68486,
+      "hash": "db9e59f3b4e942bd867f518b2596cdf9fdf59d690fa9a4862d48cb979465a2ea",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1776553748720.png",
+      "file_type": "png",
+      "size": 22684,
+      "hash": "1492381e1a9e15da2e12c91c86c2f5fb9ad445012ebe12e5bb22fab9517599e0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1776554173831.png",
+      "file_type": "png",
+      "size": 68634,
+      "hash": "de658daf62b66e78fb93637fee38f4bd94a74736bbd9ca4141546bc997ec033c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1776554958807.png",
+      "file_type": "png",
+      "size": 68247,
+      "hash": "035769b52adcb428f0f2b8b6dc8b5729d9eccfdaaff5fd9f93e872845d937f42",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".config/fish/conf.d/uv.env.fish",
+      "file_type": "fish",
+      "size": 36,
+      "hash": "2c9053b8925a72cdcc29564127b0bc5f3f8a1a8a40aced698b24c1b4de0822f8",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".config/google-chrome-for-testing/Crash Reports/settings.dat",
+      "file_type": "dat",
+      "size": 40,
+      "hash": "86dc57d98ffd3c34d6df649b424f2bfea51978f03ec3235238bd6c2280a961d8",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".config/uv/uv-receipt.json",
+      "file_type": "json",
+      "size": 316,
+      "hash": "560fa84fcb2dfedc6ae3b202af1567b3cacc026d5a32499d515b41b0a98bf32d",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".pki/nssdb/pkcs11.txt",
+      "file_type": "txt",
+      "size": 445,
+      "hash": "3f63e775bd8a0a6767737c0469055e0e0ffe177d6106d77adb5d7208b787c1cf",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".templates/project.md",
+      "file_type": "md",
+      "size": 3075,
+      "hash": "7856245337f1c3265e69e83098b8c265811631f4021e729ec1671ecda582c8e2",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".templates/questioning.md",
+      "file_type": "md",
+      "size": 8804,
+      "hash": "670dc3ef85ad44898f8719779ec68d2b3f88379ad7be0829870f8c99ec826bf7",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "INVO_BUILD_SUMMARY.md",
+      "file_type": "md",
+      "size": 6242,
+      "hash": "4e8623b3c3285c63a8a76571dcb5fb496ca4aaf2de389eb5ccb6dcf38ea9a3c2",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/Makefile",
+      "file_type": "bin",
+      "size": 733,
+      "hash": "fdb6221d594483ab0a30022185e76a63ce5142c640bacb757a0fa489eddd1aac",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/apps.py",
+      "file_type": "py",
+      "size": 643,
+      "hash": "5d04e49e377c93df30497fd276d0236b7f4bb92689030f2cf8cfd85fb7da2f23",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/migrations/0001_initial.py",
+      "file_type": "py",
+      "size": 2815,
+      "hash": "571f5ee0d204ccc93059e1357ec8f15d3884534c8f06b689cd68ad46c5e8def2",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/migrations/0002_add_vector_user_id.py",
+      "file_type": "py",
+      "size": 537,
+      "hash": "852c02b36ed2ce7970a800301f3e840ec35ffe5e9749648fc9bfd99cbf8dded2",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/migrations/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/models.py",
+      "file_type": "py",
+      "size": 2015,
+      "hash": "fdfe11b3309cc444859d36bf3c33609f7e3efe818021197c4c84aed5b9536959",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/serializers.py",
+      "file_type": "py",
+      "size": 589,
+      "hash": "c9ef08855926d3ec51f309b6935a2420fe94be82a28ce9640f7f0bd5095eb26d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/tests/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/tests/helpers.py",
+      "file_type": "py",
+      "size": 991,
+      "hash": "ebf83f3c0225668756ae6552fa35b4a69f24547bc3a4bd8ef013ed09daf21cf9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/tests/test_user_views.py",
+      "file_type": "py",
+      "size": 3342,
+      "hash": "701b4637eef790651d5fc88db025f6b3a4f0e5ac030f955b1ee23d4109dcf1e8",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/urls.py",
+      "file_type": "py",
+      "size": 776,
+      "hash": "8236ffaae838336f0b8bd31e1bee6118c272ed9faf2d4826e86939596193d4fd",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/views.py",
+      "file_type": "py",
+      "size": 2112,
+      "hash": "7fea426365053dd7de63800f8dd975715c40912314aec7ffdcdf655bfaf4a208",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/views_auth_token.py",
+      "file_type": "py",
+      "size": 10817,
+      "hash": "44edd60f415d9b9319a7f1d2ee9976ab56aba7be36e3837b463c2a2fc7d03384",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/views_billing.py",
+      "file_type": "py",
+      "size": 4474,
+      "hash": "a3391f3c919c06812062033c1af033d0685c3fbe64572e77f1717ef476b69ccc",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/settings.py",
+      "file_type": "py",
+      "size": 10695,
+      "hash": "7cc6732e65dd44014d25d6ad3112507682d34ad7b39f2dd626a597d057406456",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/urls.py",
+      "file_type": "py",
+      "size": 575,
+      "hash": "1d1254576ad028acc3e51822104283599f0404303b478eba1029de1c4a7ba333",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/views.py",
+      "file_type": "py",
+      "size": 1018,
+      "hash": "86e805d24344e3c504275539588b7366a0939826a61d187878a9229c57eb92d3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/wsgi.py",
+      "file_type": "py",
+      "size": 202,
+      "hash": "805e9a28d51ab873da5a33666e72525b1bae6c8fb0ed948ad9ada0d73393d445",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/conftest.py",
+      "file_type": "py",
+      "size": 506,
+      "hash": "99234c7ceb72d3b6340bb75a7a92cf5f536efb18e1626f60083c903979800d2c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/connectors/connector_llm.py",
+      "file_type": "py",
+      "size": 8625,
+      "hash": "b40f07ebcfc16a037dd56353e5505a0b0da1e0cd556af32ee20c04c5f9016bfb",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/apps.py",
+      "file_type": "py",
+      "size": 1085,
+      "hash": "9093632476517febd5b7a14130121c856075544c87949faee102f633b2e82647",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/management/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/management/commands/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/management/commands/process_auto_send.py",
+      "file_type": "py",
+      "size": 4365,
+      "hash": "b9b3c3db127cfe2d6bc9fc3f6f9b99d511f4a1a5ff2eaf730753d475c82e26f0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/management/commands/seed_demo_customers.py",
+      "file_type": "py",
+      "size": 5433,
+      "hash": "b22d572eaf219d1f028897ae82119d9bfcb47a5b475af1f4abdb671946579afd",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/migrations/0001_initial.py",
+      "file_type": "py",
+      "size": 7086,
+      "hash": "55866dc801e985d59bcb205fcf8dd0dbb3845147db805588004b06cb2b9ddc17",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/migrations/0002_freelancerprofile_stripe_customer_id_and_more.py",
+      "file_type": "py",
+      "size": 863,
+      "hash": "e574632cc109bb932b45d057b313fd75863cf80a9e4cda53227bed57172c2fdc",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/migrations/0003_reminderemail_email_message_id_and_more.py",
+      "file_type": "py",
+      "size": 893,
+      "hash": "d47d20d4ca599aa82c87fd7852dfaa95fc6c4de270760fb457d840deacc90068",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/migrations/0004_invoice_line_items_invoice_notes_and_more.py",
+      "file_type": "py",
+      "size": 4629,
+      "hash": "6965dc697b60a7aef33d82859c128033674fb33b19efcb1fa034c4891046f3fd",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/migrations/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/models.py",
+      "file_type": "py",
+      "size": 8603,
+      "hash": "5a31299d50e6d3cdcfe179fc359f8c1d488c2d591413663876e40a25c0c03322",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/serializers.py",
+      "file_type": "py",
+      "size": 5231,
+      "hash": "549b6d99e87243a04aeb05b2afe76458316238c5d7a5e85e08babb5725d345d7",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/service.py",
+      "file_type": "py",
+      "size": 30767,
+      "hash": "e0e3aca47888bcba3a911488f696ca0e02fa9b33b4ecc51aa32f999fbfd3ef01",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/types.py",
+      "file_type": "py",
+      "size": 2197,
+      "hash": "ad240b9601252b1e1e970806ac506d845603be4f7c7cb2500164e6f6e7c13653",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/urls.py",
+      "file_type": "py",
+      "size": 1635,
+      "hash": "1b1a10bd40940b1375236558eff29a3073c2838baab99298a29a47311d751e71",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/invoices/views.py",
+      "file_type": "py",
+      "size": 21459,
+      "hash": "788e2df3a7017a6649ad82d981f7796dfa8b0a2eb0cea3f626cc9acdd8fd7d1c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/manage.py",
+      "file_type": "py",
+      "size": 559,
+      "hash": "867f2da3e4489a068a36a60846fb96f5a2e6354c91fe8f28dbb92fb41f57c68f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/mypy.ini",
+      "file_type": "ini",
+      "size": 840,
+      "hash": "581ff782a5411f6ccc4935066f1c533b5a32461eb7472c82b55c8eba2fe3cfcd",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/prospector.yml",
+      "file_type": "yml",
+      "size": 323,
+      "hash": "aed8a73cd98900152421fae105585a04b9e438037ccfe8082caa63c961d3c204",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/pyproject.toml",
+      "file_type": "toml",
+      "size": 1415,
+      "hash": "9513f82d653643b0cf58b6b43fb528b8c36cca6d76adc68a3aa659080dcdebff",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/pytest.ini",
+      "file_type": "ini",
+      "size": 214,
+      "hash": "fcc8dd8a349b936556d192173dcaf1f39bd8280e7e55c98afd07f209b668c199",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/authentication.py",
+      "file_type": "py",
+      "size": 3291,
+      "hash": "c5170dcd90cf9e158e0c1807e6f97ec42aee235cd8cdf02df9c11b22c31bc268",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/middleware.py",
+      "file_type": "py",
+      "size": 952,
+      "hash": "f0fcef0940973904ed25086a7393b6dc27e0c28f078daf2078680253b22fd6c4",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/models.py",
+      "file_type": "py",
+      "size": 467,
+      "hash": "60fab48bd4a563f6a03ad213de78a764e60bedca5845e4a4fcf5aa70534732d3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/tests/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/tests/helpers.py",
+      "file_type": "py",
+      "size": 382,
+      "hash": "1e58e47c46f23bb8ba1614df0a3b1da986010e2a190728806e7feb3d52351124",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/uv.lock",
+      "file_type": "lock",
+      "size": 201392,
+      "hash": "7fcb12cb4511888605161c0ad950bf7ed3a3bdbbd0fed08d43efd329262e0e94",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/.env",
+      "file_type": "env",
+      "size": 144,
+      "hash": "10e06458c058fb1180711d96f94b1c7c3d5b610e4d60e91dd08e62efecff07c3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/biome.json",
+      "file_type": "json",
+      "size": 1208,
+      "hash": "72591c15247eb9372afe8292565eaa7d00979584007a9a8bbcff09b244ec8cb9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/capture-html.cjs",
+      "file_type": "cjs",
+      "size": 1139,
+      "hash": "0c34cbc87e81c1179cb0860d5637c4b22677b623e6de8f8c2c5a21361650b8ed",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/index.html",
+      "file_type": "html",
+      "size": 405,
+      "hash": "41035f40987334672ab8a197337a188f63436d2a236b28c5ffd1a273e3c0fa85",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/package-lock.json",
+      "file_type": "json",
+      "size": 177021,
+      "hash": "7b9225ce838bfac93e3ae212918922ccca044a931d4d2b5bb610dcae1dafd476",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/package.json",
+      "file_type": "json",
+      "size": 1393,
+      "hash": "9ea512b2a14830d1dd01a6446dd0e0e44788cae63ee167fb7eca53ed23a6d6f4",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/playwright.config.ts",
+      "file_type": "ts",
+      "size": 757,
+      "hash": "81cecff7abc0ac369583994126be9456170989f85781d8045ace15cfde517168",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/postcss.config.js",
+      "file_type": "js",
+      "size": 80,
+      "hash": "190c877db466995bf1482f4a16abd06e04a89ede3119341e2a86ff96e1737b27",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/public/__vector-bridge.js",
+      "file_type": "js",
+      "size": 19285,
+      "hash": "dd97f170e9a2b7c1aaf4970a2edd50296e93b3413997939af32e8316e1ff7548",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/App.tsx",
+      "file_type": "tsx",
+      "size": 2436,
+      "hash": "9411c778e1a5fee303a8bb38c6a29eb4674b133323e10df676c1f8b0dbcf7451",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/AppLayout.tsx",
+      "file_type": "tsx",
+      "size": 8601,
+      "hash": "873439144ffb6679c04a956ea0231d72555d2d994556bb3de24e4973b63fa5aa",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ui/Spinner.tsx",
+      "file_type": "tsx",
+      "size": 364,
+      "hash": "fdab7e254e8317f18e854956f80db93c9e325d84065ab3f98cb990487eb06357",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ui/index.ts",
+      "file_type": "ts",
+      "size": 35,
+      "hash": "9aea8e2598058152f7c90f232dbf5cfbce18bf431850084807b8c9b8689ed683",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/index.css",
+      "file_type": "css",
+      "size": 196,
+      "hash": "07c8f44a26157cef9cb85db03f337fe6349ec04e38ac70ca677238f8d97525cc",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/lib/utils.ts",
+      "file_type": "ts",
+      "size": 163,
+      "hash": "20513ec76775e51dbf432b036082771a85d6adb7764f56dc6606e515e078b141",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/main.tsx",
+      "file_type": "tsx",
+      "size": 230,
+      "hash": "6e9e5807fcbd48b75a96db5cbef36c996262196be42e6d4760dc86babbe61ad2",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/ClientProfilePage.tsx",
+      "file_type": "tsx",
+      "size": 7883,
+      "hash": "d0cfcea4afbc4005d9c0c9c897908b18114a3e61a391eff0f1c848de7907e060",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/ClientsPage.tsx",
+      "file_type": "tsx",
+      "size": 15306,
+      "hash": "36566750b2d33327b47263060829f70d258e0669cbefd5f010e385261f62bf18",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/DashboardPage.tsx",
+      "file_type": "tsx",
+      "size": 58329,
+      "hash": "beb6da56b9a5ccf404ad5490d175d9017bbe126c22fd81bb7bbc6d2f5486b7b9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/InvoiceDetailPage.tsx",
+      "file_type": "tsx",
+      "size": 32208,
+      "hash": "5897dd1954d4f93670a99b82f08e155a93eb70482cf1d7876ea90fd875f886d3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/InvoicesPage.tsx",
+      "file_type": "tsx",
+      "size": 23428,
+      "hash": "3ec272cb7c7187d37950c8466d18fb057a02a567bee0bdc4eb40741096e4c86c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/LandingPage.tsx",
+      "file_type": "tsx",
+      "size": 47181,
+      "hash": "d26522d107ed8d33050bd99e732c350d033a1bf9098fa4c89c70f87d0447afc0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/PricingPage.tsx",
+      "file_type": "tsx",
+      "size": 13133,
+      "hash": "6373c336a63516094117a7b6762f0d4e07769ed095113a6720c4feb13ad5d695",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/SettingsPage.tsx",
+      "file_type": "tsx",
+      "size": 14580,
+      "hash": "aefa4b7be4fab38957eecde4dc9f84ddb680ab2b5261e3246e41ccf22aa64790",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/services/api.ts",
+      "file_type": "ts",
+      "size": 6608,
+      "hash": "9891336735a63f91f77d9b584106f5855f3051dee4387c696d33bf5be9bd87ec",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/services/invoicesApi.ts",
+      "file_type": "ts",
+      "size": 10104,
+      "hash": "831f65a99edec6ae5137e0721e2dbf78b230560ae54cece3fd205a2fdd8f8650",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/styles/tokens.css",
+      "file_type": "css",
+      "size": 2690,
+      "hash": "9ae0b550acd2406771269feb329aeac15249f851f9c459a97b73e182cd1e3a41",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/vite-env.d.ts",
+      "file_type": "ts",
+      "size": 155,
+      "hash": "fd94fd489f6e6dd33677a36d895bdb828daa35c80cbcc9c1cd099c9e16636284",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tailwind.config.js",
+      "file_type": "js",
+      "size": 1936,
+      "hash": "9fc9992e9f0441d834062ccfa298c13d7ec4ed01dfbefa173ee96c01b39d1360",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tests/e2e/app.spec.ts",
+      "file_type": "ts",
+      "size": 3554,
+      "hash": "c011df5756a4bead6c29e69048d3111bc67ab848047a5b004f0098275994a80a",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tests/screenshots/LandingPage.png",
+      "file_type": "png",
+      "size": 131489,
+      "hash": "59d7c42e4bc17a60ae056249b8a24e6855d5e7e471755d893673256a60016e98",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.app.json",
+      "file_type": "json",
+      "size": 669,
+      "hash": "dbddf03091dc3a19d0befe470c35f9b0515080de01d48b8f8225b9eeb84d6a7e",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.app.tsbuildinfo",
+      "file_type": "tsbuildinfo",
+      "size": 1092,
+      "hash": "58c1f257c9599cc41e8e387f5244b6745c07a9ab6e4858070adb296d92fbe543",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.json",
+      "file_type": "json",
+      "size": 119,
+      "hash": "770b4140bbb581e2dfd9ea9946ffc9c75a1d86ba7d2db5f77c83e37cbdf9d808",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.node.json",
+      "file_type": "json",
+      "size": 435,
+      "hash": "e7e3cf511bcf2b1916169b18af2c2c0d44d06ad71ccb891197da3763e2230b86",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.node.tsbuildinfo",
+      "file_type": "tsbuildinfo",
+      "size": 47,
+      "hash": "e8dd9e113517e3b0c8342873ebd8bde559a18f6c014c9e8c8c5e30d357114027",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/alert.tsx",
+      "file_type": "tsx",
+      "size": 1604,
+      "hash": "91dc2eadd2834bfe8bd686c4fa244abea0f60c9f4622e12cb1ddf7255e9be5be",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/badge.tsx",
+      "file_type": "tsx",
+      "size": 1040,
+      "hash": "037316e4a6c449ce4d49718a54f99b351b2d7820f279ea5bc4b16a85dc2cecfb",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/button.tsx",
+      "file_type": "tsx",
+      "size": 1895,
+      "hash": "bc519d7d4c2ff2c5fa64f3c488e7364b6dd44b3fc5cdd58e5bb2e980817ae4be",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/card.tsx",
+      "file_type": "tsx",
+      "size": 1846,
+      "hash": "feaf06be065078af35cedbdb57aa0f0462c88160bfe1de65ebaed231e210e01e",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/command.tsx",
+      "file_type": "tsx",
+      "size": 4941,
+      "hash": "e300b3b2cd3f7519b3462a186931107137fd3fa7e8868494b7ccffc5fadb1677",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/confirm-dialog.tsx",
+      "file_type": "tsx",
+      "size": 1493,
+      "hash": "784ac5ef739e397a33ec9edaaff86e6d3ed18d8299ec66ff209ca8bd95dbb38b",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/dialog.tsx",
+      "file_type": "tsx",
+      "size": 3882,
+      "hash": "5dd4acfc723219a22dcff3fcf6e553006cdfa2a0abe2b739f90aa725e0d8632a",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/dropdown-menu.tsx",
+      "file_type": "tsx",
+      "size": 7639,
+      "hash": "de4306b726af33b868bc493b4aaaaed89b5b89a1fb0c9770763e8106180dfee9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/index.ts",
+      "file_type": "ts",
+      "size": 2412,
+      "hash": "156751018c6455f747fe16da0fb18008a7b9f9d6f487694fd847f8358a910b8b",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/input.tsx",
+      "file_type": "tsx",
+      "size": 870,
+      "hash": "90d30b543f211f572dd1782288cb293f9a70650606a2486f2f410e5625ce7e1e",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/label.tsx",
+      "file_type": "tsx",
+      "size": 711,
+      "hash": "dad6b1b8b6e1f90e8d23c331155e95819bac7feabca4793882f4f60c4154cf8f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/prompt-dialog.tsx",
+      "file_type": "tsx",
+      "size": 2024,
+      "hash": "e6fa0bb6e8b112f9eafbf243c53720d36643576da7ec9fdd39630c09d5f6f08d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/scroll-area.tsx",
+      "file_type": "tsx",
+      "size": 1645,
+      "hash": "61718903bd1be6953088af9869f883533dc39dcd3868dcc889b8c4cbb89671a6",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/select.tsx",
+      "file_type": "tsx",
+      "size": 5741,
+      "hash": "c0aace11964cb66428dab1f196258e3f5043754904b2de8b141d9aee2133e93b",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/separator.tsx",
+      "file_type": "tsx",
+      "size": 757,
+      "hash": "ce4c4191f0950afcdb5155d343c75ca9d06c092f3b9cbe251a9afb91a539c768",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/sheet.tsx",
+      "file_type": "tsx",
+      "size": 4231,
+      "hash": "e5f170a2620bb0d65493b30338490b36f5b30c24b06afed4815cf85dd0946ce5",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/sidebar.tsx",
+      "file_type": "tsx",
+      "size": 15087,
+      "hash": "8fb79138c81bf870dce5dd776f020744b255d89fec3cebe169932c5d09b8f999",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/skeleton.tsx",
+      "file_type": "tsx",
+      "size": 277,
+      "hash": "38f717e2c0076860ff2f87ea1ef4658a799bd092308a8876da316c6e58987351",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/spinner.tsx",
+      "file_type": "tsx",
+      "size": 365,
+      "hash": "db7131b901c72076cd71f6127d7835d1a595f6d7e3bc7c915b8424ab26150bd5",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/textarea.tsx",
+      "file_type": "tsx",
+      "size": 767,
+      "hash": "8a8a815a21c450afe802a1cce0340e37b6f3da51badbe6ff918535524f898e38",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/toast.tsx",
+      "file_type": "tsx",
+      "size": 4814,
+      "hash": "8d56743e69a7d94439e686a910da053bd98ed622f68e1a18aa2dc647c1d9d894",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vector-ui/toaster.tsx",
+      "file_type": "tsx",
+      "size": 3771,
+      "hash": "5c26f4dba1d0a23186b50c83a7208741984bce0f8d0dd237049f34d4b56121d0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vite.config.ts",
+      "file_type": "ts",
+      "size": 570,
+      "hash": "f51f93084394c0a0aabc393b541f6766cf609ff86679e0adf73f4a23132088e0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/.gitkeep",
+      "file_type": "gitkeep",
+      "size": 234,
+      "hash": "07e9fa525815e867dc4c9f125c6fce63173ba70fbd0fe4a3b0ce96550042fe0f",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/design-style-guide.md",
+      "file_type": "md",
+      "size": 6802,
+      "hash": "85e187f56a0766b338a0f3e07377f66e6b8d04cacee85e5330eee7c95f55574c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    }
+  ]
+}

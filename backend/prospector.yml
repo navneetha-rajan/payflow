@@ -1,0 +1,27 @@
+uses:
+  - django
+
+dodgy:
+  run: false
+
+pylint:
+  disable:
+    - broad-exception-raised
+    - too-many-arguments
+    - too-many-locals
+    - line-too-long
+    - wrong-import-position
+
+ignore-paths:
+  - docker
+  - frontend
+  - node_modules
+  - .venv
+  - venv
+  - migrations
+  - manage.py
+
+pycodestyle:
+  disable:
+    - E501
+

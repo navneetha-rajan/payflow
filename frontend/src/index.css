@@ -1,0 +1,12 @@
+@import "./styles/tokens.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    @apply bg-[var(--color-bg)] text-[var(--color-fg)] antialiased;
+  }
+}
+

@@ -1,0 +1,6 @@
+# Artifacts Directory
+
+This directory contains generated artifacts, for example:
+- Project.md - Project specification and requirements
+- Plan.md - Execution plan for building the app
+- ExecutionSummary.md - Summary of completed tasks
