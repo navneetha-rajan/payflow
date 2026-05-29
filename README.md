@@ -4,6 +4,10 @@
 
 PayFlow automates overdue payment collection with intelligent, escalating email sequences — so freelancers get paid without damaging client relationships.
 
+## Demo
+
+[![Watch the PayFlow demo](frontend/tests/screenshots/LandingPage.png)](https://www.youtube.com/watch?v=sGRfJz1Jdj8)
+
 ---
 
 ## The Problem
